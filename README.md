@@ -1,2 +1,2 @@
 # PruebaConex
-Probando como trabajar en equipo
+Probando como trabajar en equipo para POO
